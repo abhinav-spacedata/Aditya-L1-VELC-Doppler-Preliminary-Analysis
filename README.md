@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3.x-blue)
+7![Python](https://img.shields.io/badge/python-3.x-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Research](https://img.shields.io/badge/type-research-orange)
 ![Solar Physics](https://img.shields.io/badge/domain-solar%20physics-yellow)0# Aditya-L1 VELC Solar Corona Analysis
@@ -278,17 +278,18 @@ LICENSE
 
 Clone the repository
 
-git clone https://github.com/abhinav-spacedata/Aditya-L1-VELC-Solar-Corona-Analysis
+git clone https://github.com/abhinav-spacedata/Aditya-L1-VELC-Doppler-Preliminary-Analysis.git
 
 Install dependencies
 
 pip install -r requirements.txt
 
-Run analysis
+Run single observation analysis
 
-cd analysis  
-python velc_coronal_analysis.py  
+cd analysis
+python velc_coronal_analysis.py
 
-For multi-observation analysis:
+Run multi-observation analysis
 
 python velc_multi_observation_analysis.py
+
