@@ -185,7 +185,7 @@ This plot represents the relative density distribution in the solar corona deriv
 
 ## 9. Coronal Temperature Map
 
-![Temperature](figures/PASTE_FILE_NAME_HERE.png)
+![Temperature](figures/spectral_line_width_temperature_proxy.png)
 
 The temperature map represents spatial variations in coronal temperature proxies derived from spectral line width measurements.
 
