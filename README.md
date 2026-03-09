@@ -120,7 +120,8 @@ Solar Wind Acceleration Estimation
 
 ## 1. VELC Spectral Image
 
-![Spectral Image](figures/01_velc_spectral_image_fe14_530nm.png)
+![Spectral Image](figures/velc_spectral_image_fe14_530nm.png)
+
 
 This image represents the spatial and spectral intensity distribution of coronal emission recorded by VELC. Bright regions correspond to stronger coronal emission and typically indicate higher plasma density or active coronal structures.
 
@@ -128,7 +129,7 @@ This image represents the spatial and spectral intensity distribution of coronal
 
 ## 2. Radial Intensity Profile
 
-![Radial Intensity](figures/02_coronal_radial_intensity_profile.png)
+![Radial Intensity](figures/coronal_radial_intensity_profile.png)
 
 The radial intensity profile illustrates how emission intensity varies along the radial direction of the solar corona. The decreasing intensity trend reflects the reduction of plasma density with increasing distance from the solar surface.
 
@@ -136,7 +137,7 @@ The radial intensity profile illustrates how emission intensity varies along the
 
 ## 3. Coronal Brightness vs Height
 
-![Coronal Brightness](figures/03_coronal_brightness_vs_height.png)
+![Coronal Brightness](figures/coronal_brightness_vs_height.png)
 
 This plot shows the variation of coronal brightness with increasing height above the solar surface. The decrease in brightness confirms the gradual thinning of the coronal plasma.
 
@@ -144,7 +145,7 @@ This plot shows the variation of coronal brightness with increasing height above
 
 ## 4. Spectral Line Width (Temperature Proxy)
 
-![Line Width](figures/04_spectral_line_width_temperature_proxy.png)
+![Line Width](figures/spectral_line_width_temperature_proxy.png)
 
 Spectral line width provides a proxy for estimating coronal plasma temperature. Broader spectral lines suggest higher thermal motion or turbulence within the corona.
 
@@ -152,7 +153,7 @@ Spectral line width provides a proxy for estimating coronal plasma temperature. 
 
 ## 5. Doppler Velocity Model
 
-![Velocity](figures/05_doppler_velocity_model_fe14.png)
+![Velocity](figures/doppler_velocity_model_fe14.png)
 
 This model demonstrates the relationship between spectral pixel shift and Doppler velocity. Positive shifts represent redshift while negative shifts represent blueshift, indicating plasma motion along the line of sight.
 
@@ -160,7 +161,7 @@ This model demonstrates the relationship between spectral pixel shift and Dopple
 
 ## 6. Solar Wind Velocity Map
 
-![Velocity Map](figures/06_solar_wind_velocity_map_velc.png)
+![Velocity Map](figures/solar_wind_velocity_map_velc.png)
 
 This velocity map represents a simplified distribution of plasma flow within the VELC field of view. Such maps are useful for identifying potential solar wind source regions.
 
@@ -168,7 +169,7 @@ This velocity map represents a simplified distribution of plasma flow within the
 
 ## 7. Solar Wind Acceleration Profile
 
-![Acceleration](figures/07_solar_wind_acceleration_profile.png)
+![Acceleration](figures/solar_wind_acceleration_profile.png)
 
 The acceleration profile shows how solar wind velocity changes with height in the corona. Increasing acceleration indicates outward plasma flow into interplanetary space.
 
@@ -176,7 +177,7 @@ The acceleration profile shows how solar wind velocity changes with height in th
 
 ## 8. Coronal Density Proxy
 
-![Density](figures/08_coronal_density_proxy.png)
+![Doppler Map](figures/solar_wind_doppler_velocity_map.png)
 
 This plot represents the relative density distribution in the solar corona derived from emission intensity. Higher values correspond to denser plasma regions.
 
@@ -184,7 +185,7 @@ This plot represents the relative density distribution in the solar corona deriv
 
 ## 9. Coronal Temperature Map
 
-![Temperature](figures/09_coronal_temperature_map.png)
+![Temperature](figures/spectral_line_width_temperature_map.png)
 
 The temperature map represents spatial variations in coronal temperature proxies derived from spectral line width measurements.
 
@@ -192,7 +193,7 @@ The temperature map represents spatial variations in coronal temperature proxies
 
 ## 10. 3D Solar Corona Model
 
-![3D Corona](figures/10_3d_solar_corona_model.png)
+![3D Corona](figures/solar_corona_3d_geometry_model.png)
 
 This 3D visualization illustrates a conceptual representation of the solar corona structure within the VELC field of view, highlighting the spatial extent of coronal plasma.
 
