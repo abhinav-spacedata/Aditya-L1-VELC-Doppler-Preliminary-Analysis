@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Aditya-L1 VELC Solar Corona Analysis
+message: "If you use this project in your research, please cite it."
+authors:
+  - family-names: Chaudhary
+    given-names: Abhinav
+version: 1.0
+date-released: 2026
+url: https://github.com/abhinav-spacedata/Aditya-L1-VELC-Solar-Corona-Analysis
+keywords:
+  - solar physics
+  - solar corona
+  - spectroscopy
+  - Aditya-L1
+  - VELC
+license: MIT
