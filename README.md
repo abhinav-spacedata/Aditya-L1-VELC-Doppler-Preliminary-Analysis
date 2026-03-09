@@ -1,4 +1,4 @@
-# Aditya-L1 VELC Solar Corona Analysis
+0# Aditya-L1 VELC Solar Corona Analysis
 
 ## Abstract
 
@@ -274,7 +274,7 @@ LICENSE
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/Aditya-L1-VELC-Solar-Corona-Analysis
+git clone https://github.com/abhinav-spacedata/Aditya-L1-VELC-Solar-Corona-Analysis
 
 Install dependencies
 
