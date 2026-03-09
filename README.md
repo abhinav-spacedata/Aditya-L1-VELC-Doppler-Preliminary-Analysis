@@ -1,4 +1,7 @@
-0# Aditya-L1 VELC Solar Corona Analysis
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Research](https://img.shields.io/badge/type-research-orange)
+![Solar Physics](https://img.shields.io/badge/domain-solar%20physics-yellow)0# Aditya-L1 VELC Solar Corona Analysis
 
 ## Abstract
 
